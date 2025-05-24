@@ -1,4 +1,4 @@
-#Ruby basic projects from Odin Project
+# Ruby basic projects from Odin Project
 
 Using Ruby I created those methods:
 1 - Caesar Cipher method which changes the letters of the words depending on the shift value you input.
